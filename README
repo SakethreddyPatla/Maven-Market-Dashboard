@@ -1,0 +1,39 @@
+Project Description
+The Maven Market Power BI Dashboard is an end‑to‑end analytics solution designed to evaluate business performance across sales, profitability, customer behavior, product trends, and geographic distribution. Using a combination of DAX measures, data modeling, and interactive visuals, the dashboard transforms raw transactional data into actionable insights for decision‑makers.
+This project showcases a complete BI workflow — from data cleaning and modeling to KPI design, drill‑down analysis, and executive‑level storytelling. The dashboard enables stakeholders to monitor revenue trends, identify high‑value customers, evaluate product performance, and understand regional demand patterns. It also highlights operational risks such as high‑return products and underperforming regions.
+By integrating multiple analytical perspectives into a single, intuitive interface, the Maven Market dashboard demonstrates strong competency in Power BI, DAX, data modeling, business analysis, and insight communication — making it a powerful addition to a professional analytics portfolio.
+
+Problem Statement
+Maven Market operates across multiple regions and product categories, generating large volumes of transactional and customer data. However, the business lacked a unified analytics system to answer critical questions such as:
+- Which products and regions drive the highest revenue and profit
+- How customer demographics influence purchasing behavior
+- Which items have high return rates and may require quality review
+- How monthly performance is trending over time
+- Who the top customers are and how much value they contribute
+Without a centralized dashboard, decision‑makers struggled to monitor performance, identify risks, and act on opportunities in a timely manner.
+
+Solution Approach
+To address these challenges, a comprehensive Power BI solution was developed using the following steps:
+1. Data Preparation & Modeling
+- Cleaned and transformed raw sales, product, customer, and geographic data.
+- Built a star‑schema model with fact tables (transactions, returns) and dimension tables (products, customers, stores).
+- Created calculated columns and DAX measures for KPIs such as revenue, profit, return rate, revenue per customer, and MoM growth.
+2. KPI & Trend Analysis
+- Designed executive‑level KPIs for revenue, profit, transactions, and returns.
+- Built time‑series visuals to track monthly performance and identify seasonal patterns.
+- Added dynamic MoM comparisons to highlight growth or decline.
+3. Product Performance Evaluation
+- Created tables and visuals to compare products by profit, margin, and return rate.
+- Highlighted best‑selling and most‑returned products to support inventory and quality decisions.
+- Added a product‑level deep‑dive page for detailed SKU analysis.
+4. Customer Behavior Insights
+- Analyzed customer demographics (income level, occupation) and purchasing patterns.
+- Identified top 100 customers and their revenue contribution.
+- Calculated revenue per customer to support lifetime value analysis.
+5. Geographic Analysis
+- Mapped transaction volumes across cities and countries.
+- Identified high‑performing regions for targeted marketing and inventory planning.
+6. Insight Storytelling & Dashboard Design
+- Used Smart Narratives, tooltips, and text summaries to communicate insights clearly.
+- Designed a clean, intuitive layout with slicers for region, product, and time.
+- Ensured the dashboard supports both high‑level overviews and deep drill‑downs.
