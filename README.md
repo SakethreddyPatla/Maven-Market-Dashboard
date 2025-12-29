@@ -1,4 +1,4 @@
-# Maven Market: Data-Driven Performance Overview
+# International Market Performance & KPI Monitoring Engine 
 This dashboard serves as the central "source of truth" for Maven Market, transforming over 269,000 transactions into a strategic roadmap for growth. 
 By moving through the full BI lifecycle, I converted raw data into a high-performance analytics solution that tracks $1.76M in total revenue and $1.05M in total profit.
 
